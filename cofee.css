@@ -263,7 +263,7 @@ body{
 
 .menu .box-container{
     display: grid;
-    grid-template-columns: repeat();
+    grid-template-columns: repeat(auto-fit, minmax());
 }
 
 
